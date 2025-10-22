@@ -3,7 +3,7 @@
 Usar Jupyter Notebook
 
 ```bash
-Implementação Vibe funciona mas não é ideal..o tratamento precisalmente..
+Implementação Vibe funciona mas não é ideal..o tratamento principalmente..
 Parte de guardar outputs pode ser mantido
 ```
 
