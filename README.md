@@ -14,3 +14,7 @@ AVERAGE_SPEED_DIFF, AVERAGE_FREE_FLOW_SPEED,AVERAGE_TIME_DIFF..
 Foram criadas novas feautures partindo destas.
 A fazer: tuning dos params do RandomForest, usar outros modelos.
 ```
+
+## Useful links
+- [Canva Presentation](https://www.canva.com/design/DAG6SeMRtwc/qHNgKnig7lxH0sgP1LPosw/edit)
+- [Typst Report](https://typst.app/project/pbe01oFcNWRsb0FJV2yTem)
